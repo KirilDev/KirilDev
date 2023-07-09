@@ -1,4 +1,4 @@
-<img src="https://cdn.wallpapersafari.com/4/92/5vSW6p.png" align="center" height="500" width="800"/>
+<img src="https://cdn.wallpapersafari.com/4/92/5vSW6p.png" align="center" height="500" width="1000"/>
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A Mobile Developer from Latvia</h3>
  - 🔭 I’m currently working on **Young Folks Studios**
