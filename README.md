@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A Mobile Developer from Latvia</h3>
-<div align="center>
  - 🔭 I’m currently working on **Young Folks Studios**
   
 - 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
-
-</div>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
