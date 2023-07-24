@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A Mobile Developer from Latvia</h3>
-- 🔭 I’m currently working on Young Folks Studios 🏢
+- 🔭 I’m currently working on Young Folks Studios as a Programmer 🏢
   
-- 🌱 I’m currently learning **Android Development** 📱
+- 🌱 I’m currently learning **Native Android Development** 📱
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 <p align="left">
