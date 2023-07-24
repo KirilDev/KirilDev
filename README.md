@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">A Mobile Developer from Latvia</h3>
-- 🔭 I’m currently working on Young Folks Studios as a Programmer 🏢
+🔭 I’m currently working on Young Folks Studios as a Programmer 🏢
   
-- 🌱 I’m currently learning **Native Android Development** 📱
+ 🌱 I’m currently learning **Native Android Development** 📱
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+👨‍💻 All of my projects are available at [Github](Github)
 <p align="left">
 </p>
 <h3 align="left">All of my knowledge:</h3>
