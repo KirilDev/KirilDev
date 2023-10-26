@@ -2,8 +2,8 @@
 <h3 align="center">A Just a little developer from Latvia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirildev" alt="kirildev" /></a> </p>
-
-- 🌱 I’m currently learning **Web Development**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirilDev&layout=compact" />
+- 🌱 I’m currently learning ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
