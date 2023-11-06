@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirildev" alt="kirildev" /></a> </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirilDev&layout=compact" />
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I’m currently learning **Softwaere Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
