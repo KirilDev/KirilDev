@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
-<h3 align="center">A Just a little developer from Latvia</h3>
+<h3 align="center">Just a little developer from Latvia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirildev" alt="kirildev" /></a> </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirilDev&layout=compact" />
