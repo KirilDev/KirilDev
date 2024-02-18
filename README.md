@@ -2,8 +2,6 @@
 <h3 align="center">Developer from Latvia</h3>
 <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Inspiration Gif"/>
 
-- 🔭 I’m currently working on [Global Gamers Citizens Flutter Game](https://globalgamers.devpost.com/)
-
 - 🌱 I’m currently learning **Mobile Dev (Android, Flutter) and Computer Science**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kirils-luscins/](https://www.linkedin.com/in/kirils-luscins/)
