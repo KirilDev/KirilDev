@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Kirill</h1>
 <h3 align="center">Developer from Latvia</h3>
+<br>
+<center>
+<img src="https://static.wikia.nocookie.net/p__/images/0/00/Flow_%28Flow%29_black_cat_-_character.png/revision/latest?cb=20241208031901&path-prefix=protagonist" >
+</center>
 <!---<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Inspiration Gif"/>
 
 <!--- 🌱 I’m currently learning 
